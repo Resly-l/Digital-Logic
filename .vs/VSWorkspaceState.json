@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ALU"
   ],
-  "SelectedNode": "\\C:\\Users\\Cheshire\\Desktop\\Solutions\\Digital-Logic",
+  "SelectedNode": "\\ALU\\Adder Concatenation.circ",
   "PreviewInSolutionExplorer": false
 }
